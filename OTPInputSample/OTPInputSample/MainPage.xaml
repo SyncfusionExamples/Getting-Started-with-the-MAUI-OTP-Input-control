@@ -5,7 +5,7 @@
              x:Class="OTPInputSample.MainPage">
 
     <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
-        <toolkit:SfOtpInput Length="6" Type="Text" StylingMode="Filled"/>
+        <toolkit:SfOtpInput Value="E3C712" Length="6" Type="Text" StylingMode="Filled"/>
     </StackLayout>
 
 </ContentPage>
